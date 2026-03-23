@@ -1,0 +1,8 @@
+# 보안 파일
+.env
+
+# 파이썬 캐시 및 실행 파일 생성 찌꺼기
+__pycache__/
+build/
+dist/
+*.spec
